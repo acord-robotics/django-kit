@@ -1,5 +1,7 @@
 # django kit
 
+![](https://travis-ci.org/acord-robotics/django-kit.svg?branch=main)
+
  A kit for people who want to create sites with Django, with different starting templates & apps, by Signal Kinetics // Acord Software. If you have a new django project and want to get it set up quickly, with minimal fuss but all the benefits of AC0/RD's extensions, clone this repo. 
 
 The following Python modules/libraries are (currently) used in this repo:
